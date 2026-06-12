@@ -12,7 +12,7 @@
 
 - 🖥️ Fullstack dev with a weakness for low-level tinkering
 - ⚙️ I build things with React, Node.js, Flask, Arduino, and Docker
-- 🐧 Linux sysadmin by necessity, by choice, and by personality
+- 🐧 Penguin Enthusiast
 - 🔌 Embedded systems & IoT — if it has a microcontroller, I'm interested
 - 💬 Ask me about C++, Python, or why I run Arch
 - 😶 Fun fact: I am a rather very isolated system
@@ -42,6 +42,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
@@ -51,6 +54,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 <!--
 ---
@@ -73,7 +77,16 @@
   <a href="https://www.linkedin.com/in/nikhil-sahu-a30a10258/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.kaggle.com/nikhi1106">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/psudocoderr">
+    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?&style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
   <a href="https://discord.com/users/psudocoderr">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/psudocoderr_/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
