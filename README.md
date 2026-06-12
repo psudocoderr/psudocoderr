@@ -82,15 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&rank_icon=github" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psudocoderr&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117" />
 </p>
----
 
-**Spotify**
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6l37gnmodlrlaucll3g64lt0z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
-  </a>
-</p>
----
 ### 🤝 Connect
 
 <p align="left">
@@ -111,5 +103,12 @@
   </a>
   <a href="https://leetcode.com/u/psudocoderr_/">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+---
+**Spotify**
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6l37gnmodlrlaucll3g64lt0z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
 </p>
