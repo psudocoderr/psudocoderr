@@ -106,6 +106,7 @@
   </a>
 </p>
 ---
+
 **Spotify**
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
