@@ -71,22 +71,26 @@
 **Operating Systems:**
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-<!--
 ---
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psudocoderr&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117" /> 
-</p> -->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&rank_icon=github" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psudocoderr&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117" />
+</p>
 ---
 
+**Spotify**
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6l37gnmodlrlaucll3g64lt0z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
+---
 ### 🤝 Connect
 
 <p align="left">
