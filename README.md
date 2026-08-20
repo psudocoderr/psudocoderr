@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Nikhil <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 
-<h3 align="center">Fullstack Developer | Embedded Systems | Linux Enthusiast</h3>
+<h3 align="center">Software Engineer building embedded systems, backend infrastructure & full-stack applications</h3>
 
 <p align="center"><i>just a rather very isolated system</i></p>
 
@@ -14,7 +14,7 @@
 - ⚙️ I build things with React, Node.js, Flask, Arduino, and Docker
 - 🐧 Penguin Enthusiast
 - 🔌 Embedded systems & IoT — if it has a microcontroller, I'm interested
-- 💬 Ask me about C++, Python, or why I run Arch
+- 💬 Ask me about C++, Python, or JS
 - 😶 Fun fact: I use Arch btw!
 
 ---
@@ -79,7 +79,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&rank_icon=github" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&rank_icon=github" /> -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psudocoderr&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117" />
 </p>
 
