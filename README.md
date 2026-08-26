@@ -80,11 +80,11 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&rank_icon=github" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psudocoderr&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117" /> -->
-  <img src="https://terminal-identity-opal.vercel.app/api?name=Nikhil&username=psudocoderr&role=dev&tagline=El+Psy+Congroo&status=reviewing+patches+and+release+candidates&command=make+oldconfig&theme=obsidian%2Fmatcha&avatar=LT&pattern=pulse&width=980&height=auto&showLangs=on&showContribs=on&barStyle=blocks&motion=pulse&contribTheme=star" width="100%" alt="Terminal identity card" />
-</p>
+  <!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&rank_icon=github" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psudocoderr&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117" />  </p> -->
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Nikhil&username=psudocoderr&role=dev&tagline=El+Psy+Congroo&status=reviewing+patches+and+release+candidates&command=make+oldconfig&theme=obsidian%2Fmatcha&avatar=LT&pattern=pulse&width=980&height=auto&showLangs=on&showContribs=on&barStyle=blocks&motion=pulse&contribTheme=star" width="100%" alt="Terminal identity card" />
 <!--
 ### 🤝 Connect
 
