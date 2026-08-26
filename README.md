@@ -45,13 +45,13 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-<!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)-->
+<!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)-->
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) -->
 
 **Frameworks & Libraries:**
@@ -61,6 +61,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
 <!--
 **Editors:**
 
@@ -68,6 +69,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 -->
+
 **Operating Systems:**
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -82,7 +84,13 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=psudocoderr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&rank_icon=github" /> -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psudocoderr&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117" />
 </p>
+<img
+  src="https://terminal-identity-opal.vercel.app/api?name=ggam&username=psudocoderr&role=frontend%20engineer&tagline=Building%20tiny%20tools%20with%20taste.&theme=amber/solar&avatar=GG&pattern=grid&width=980&height=auto&showContribs=on&contribTheme=moon"
+  width="100%"
+  alt="Terminal identity card with contribution grid"
+/>
 
+<!--
 ### 🤝 Connect
 
 <p align="left">
@@ -98,14 +106,14 @@
   <a href="https://huggingface.co/psudocoderr">
     <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?&style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
-  <!-- <a href="https://discord.com/users/psudocoderr">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-  </a> -->
   <a href="https://leetcode.com/u/psudocoderr_/">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://discord.com/users/psudocoderr">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
-
+-->
 ---
 
 ### Spotify 🎵 🎸 🎶
